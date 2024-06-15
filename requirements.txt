@@ -1,0 +1,3 @@
+pandas
+fastf1
+numpy
